@@ -1,0 +1,21 @@
+C:\Users\ADMIN\OneDrive\Masaüstü\c#\hesap mekinesi\hesap mekinesi\bin\Debug\hesap mekinesi.exe.config
+C:\Users\ADMIN\OneDrive\Masaüstü\c#\hesap mekinesi\hesap mekinesi\bin\Debug\hesap mekinesi.exe
+C:\Users\ADMIN\OneDrive\Masaüstü\c#\hesap mekinesi\hesap mekinesi\bin\Debug\hesap mekinesi.pdb
+C:\Users\ADMIN\OneDrive\Masaüstü\c#\hesap mekinesi\hesap mekinesi\obj\Debug\hesap mekinesi.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Masaüstü\c#\hesap mekinesi\hesap mekinesi\obj\Debug\hesap mekinesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\OneDrive\Masaüstü\c#\hesap mekinesi\hesap mekinesi\obj\Debug\hesap_mekinesi.Form1.resources
+C:\Users\ADMIN\OneDrive\Masaüstü\c#\hesap mekinesi\hesap mekinesi\obj\Debug\hesap_mekinesi.Properties.Resources.resources
+C:\Users\ADMIN\OneDrive\Masaüstü\c#\hesap mekinesi\hesap mekinesi\obj\Debug\hesap mekinesi.csproj.GenerateResource.cache
+C:\Users\ADMIN\OneDrive\Masaüstü\c#\hesap mekinesi\hesap mekinesi\obj\Debug\hesap mekinesi.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Masaüstü\c#\hesap mekinesi\hesap mekinesi\obj\Debug\hesap mekinesi.exe
+C:\Users\ADMIN\OneDrive\Masaüstü\c#\hesap mekinesi\hesap mekinesi\obj\Debug\hesap mekinesi.pdb
+C:\Users\melis\OneDrive\Masaüstü\MELİSA\c#\hesap mekinesi\hesap mekinesi\bin\Debug\hesap mekinesi.exe.config
+C:\Users\melis\OneDrive\Masaüstü\MELİSA\c#\hesap mekinesi\hesap mekinesi\bin\Debug\hesap mekinesi.exe
+C:\Users\melis\OneDrive\Masaüstü\MELİSA\c#\hesap mekinesi\hesap mekinesi\bin\Debug\hesap mekinesi.pdb
+C:\Users\melis\OneDrive\Masaüstü\MELİSA\c#\hesap mekinesi\hesap mekinesi\obj\Debug\hesap mekinesi.csproj.AssemblyReference.cache
+C:\Users\melis\OneDrive\Masaüstü\MELİSA\c#\hesap mekinesi\hesap mekinesi\obj\Debug\hesap_mekinesi.Form1.resources
+C:\Users\melis\OneDrive\Masaüstü\MELİSA\c#\hesap mekinesi\hesap mekinesi\obj\Debug\hesap_mekinesi.Properties.Resources.resources
+C:\Users\melis\OneDrive\Masaüstü\MELİSA\c#\hesap mekinesi\hesap mekinesi\obj\Debug\hesap mekinesi.csproj.GenerateResource.cache
+C:\Users\melis\OneDrive\Masaüstü\MELİSA\c#\hesap mekinesi\hesap mekinesi\obj\Debug\hesap mekinesi.csproj.CoreCompileInputs.cache
+C:\Users\melis\OneDrive\Masaüstü\MELİSA\c#\hesap mekinesi\hesap mekinesi\obj\Debug\hesap mekinesi.exe
+C:\Users\melis\OneDrive\Masaüstü\MELİSA\c#\hesap mekinesi\hesap mekinesi\obj\Debug\hesap mekinesi.pdb
